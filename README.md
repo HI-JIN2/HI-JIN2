@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)
 
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
