@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-JIN2)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{qldls0307})
