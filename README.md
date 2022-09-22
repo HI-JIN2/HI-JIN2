@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)
 
 
-# 💪Skills
+# 🌱Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-3776AB.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
