@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 # Community
 
-SSUPER-POWER-Develper
-
-SSU_UMC-3rd-Kotiln
+- SSUPER-POWER-Develper
+- SSU_UMC-3rd-Kotiln
 
 # Develop
 
