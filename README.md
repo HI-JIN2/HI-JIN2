@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Develop
 
-`2022.07-08` FootPrint 숭실대 소프트웨어공모전 응모작 /Flutter/
+`2022.07-08` FootPrint 숭실대 소프트웨어공모전 응모작 `Flutter`
 
 `2022.08-11` SSU-devcamp 정보관 테라스 예약시스템 모바일 기반 웹 `React-Typescript`
 
