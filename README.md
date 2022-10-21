@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)
 
 
+# Community
+
+`2022` SSUPER-POWER-Develper
+
+`2022.09-12` SSU_UMC-3rd-Kotiln
+
+# Develop
+
+`2022.07-08` FootPrint 숭실대 소프트웨어공모전 응모작 /Flutter/
+
+`2022.08-11` SSU-devcamp 정보관 테라스 예약시스템 모바일 기반 웹 `React-Typescript`
+
+`2022.10-12` EAT-SSU 숭실대에서 먹자! 학식 리뷰 안드로이드 앱 `JAVA Android`
+
 # 🌱Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
