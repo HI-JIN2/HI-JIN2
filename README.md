@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 # Community
 
-`2022` SSUPER-POWER-Develper
+SSUPER-POWER-Develper
 
-`2022.09-12` SSU_UMC-3rd-Kotiln
+SSU_UMC-3rd-Kotiln
 
 # Develop
 
