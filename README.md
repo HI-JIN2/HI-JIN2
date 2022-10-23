@@ -20,15 +20,33 @@ Here are some ideas to get you started:
 # Community
 
 - SSUPER-POWER-Develper
-- SSU_UMC-3rd-Kotiln
+- SSUMC-3rd-Android
+
 
 # Develop
 
-`2022.07-08` FootPrint 숭실대 소프트웨어공모전 응모작 `Flutter`
+- **FootPrint**
+나의 발자국을 남겨요
+*숭실대 소프트웨어공모전 응모작* 
+2022.07-08 (개발 중단 및 재정비 중)
+https://github.com/White-Patrasche/FOOTPRINT_FLUTTER 
+`Flutter`  `Firebase`
+    
+- **Terrace-Booking**
+정보관 테라스 예약시스템 모바일 기반 웹
+*SSU-DevCamp* 
+2022.08-11  (개발 진행 중)
+https://github.com/Soongsil-Developers/terrace-web 
+`React-Typescript`
 
-`2022.08-11` SSU-devcamp 정보관 테라스 예약시스템 모바일 기반 웹 `React-Typescript`
+- **2022.10-12 EAT-SSU** 
+숭실대에서 먹자! 
+학식 리뷰 안드로이드 앱
+*사용자인터페이스및실습 프로젝트*
+(기획 완료 및 개발예정)
+https://github.com/EAT-SSU/EAT-SSU 
+`JAVA Android`  `Jsoup`  `Firebase`
 
-`2022.10-12` EAT-SSU 숭실대에서 먹자! 학식 리뷰 안드로이드 앱 `JAVA Android`
 
 # 🌱Skills
 ### Platforms & Languages
