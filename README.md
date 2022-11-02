@@ -25,26 +25,23 @@ Here are some ideas to get you started:
 
 # Develop
 
-- **FootPrint**
-나의 발자국을 남겨요
-*숭실대 소프트웨어공모전 응모작* 
+- [**FootPrint**](https://github.com/White-Patrasche/FOOTPRINT_FLUTTER )
+나의 발자국을 남겨요  
+*숭실대 소프트웨어공모전 응모작*  
 2022.07-08 (개발 중단 및 재정비 중)
-https://github.com/White-Patrasche/FOOTPRINT_FLUTTER 
 `Flutter`  `Firebase`
     
-- **Terrace-Booking**
-정보관 테라스 예약시스템 모바일 기반 웹
-*SSU-DevCamp* 
+- [**Terrace-Booking**](https://github.com/Soongsil-Developers/terrace-web)
+정보관 테라스 예약시스템 모바일 기반 웹  
+*SSU-DevCamp*   
 2022.08-11  (개발 진행 중)
-https://github.com/Soongsil-Developers/terrace-web 
 `React-Typescript`
 
-- **2022.10-12 EAT-SSU** 
+- [**EAT-SSU**](https://github.com/EAT-SSU/EAT-SSU)
 숭실대에서 먹자! 
-학식 리뷰 안드로이드 앱
-*사용자인터페이스및실습 프로젝트*
-(기획 완료 및 개발예정)
-https://github.com/EAT-SSU/EAT-SSU 
+학식 리뷰 안드로이드 앱  
+*사용자인터페이스및실습 프로젝트*  
+2022.10-12 (개발 진행 중)
 `JAVA Android`  `Jsoup`  `Firebase`
 
 
