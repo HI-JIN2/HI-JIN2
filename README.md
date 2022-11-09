@@ -17,25 +17,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)
 
 
-# Community
-
-- SSUPER-POWER-Develper
-- SSUMC-3rd-Android
-
 
 # Develop
-
-- [**FootPrint**](https://github.com/White-Patrasche/FOOTPRINT_FLUTTER )
-나의 발자국을 남겨요  
-*숭실대 소프트웨어공모전 응모작*  
-2022.07-08 (개발 중단 및 재정비 중)
-`Flutter`  `Firebase`
-    
-- [**Terrace-Booking**](https://github.com/Soongsil-Developers/terrace-web)
-정보관 테라스 예약시스템 모바일 기반 웹  
-*SSU-DevCamp*   
-2022.08-11  (개발 진행 중)
-`React-Typescript`
 
 - [**EAT-SSU**](https://github.com/EAT-SSU/EAT-SSU)
 숭실대에서 먹자! 
@@ -43,6 +26,20 @@ Here are some ideas to get you started:
 *사용자인터페이스및실습 프로젝트*  
 2022.10-12 (개발 진행 중)
 `JAVA Android`  `Jsoup`  `Firebase`
+
+- [**Terrace-Booking**](https://github.com/Soongsil-Developers/terrace-web)
+정보관 테라스 예약시스템 모바일 기반 웹  
+*SSU-DevCamp*   
+2022.08-11  (개발 진행 중)
+`React-Typescript`
+
+- [**FootPrint**](https://github.com/White-Patrasche/FOOTPRINT_FLUTTER )
+나의 발자국을 남겨요  
+*숭실대 소프트웨어공모전 응모작*  
+2022.07-08 (개발 중단 및 재정비 중)
+`Flutter`  `Firebase`
+    
+
 
 
 # 🌱Skills
@@ -65,6 +62,11 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 
+
+# Community
+
+- SSUPER-POWER-Develper
+- SSUMC-3rd-Android
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-JIN2)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qldls0307)](https://solved.ac/qldls0307)
