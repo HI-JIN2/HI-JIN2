@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 ### Platforms & Languages
 #### App Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-007396.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-3776AB.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 #### Web Front
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-4479A1.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![FireBase](https://img.shields.io/badge/FIREBASE-4479A1.svg?&style=for-the-badge&logo=FIREBASE&logoColor=white)
+![FireBase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=FIREBASE&logoColor=white)
 
 
 
@@ -81,3 +81,6 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-JIN2&layout=compact)](https://github.com/HI-JIN2/github-readme-stats)
  -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qldls0307)
+#### Algorithm 
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c++&logoColor=white)
