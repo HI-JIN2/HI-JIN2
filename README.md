@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 학식 리뷰 안드로이드 앱  
 *사용자인터페이스및실습 프로젝트*  
 2022.10-12 (개발 진행 중)
-`JAVA Android`  `Jsoup`  `Firebase`
+`JAVA Android`  `BeautifulSoup`  `Firebase`
 
 - [**Terrace-Booking**](https://github.com/Soongsil-Developers/terrace-web)
 정보관 테라스 예약시스템 모바일 기반 웹  
