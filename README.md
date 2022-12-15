@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 # 🌱Skills
 ### Platforms & Languages
 #### App Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-007396.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 
 #### etc
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-4479A1.svg?&style=for-the-badge&logo=R&logoColor=white)
+![R](https://img.shields.io/badge/R-3776AB.svg?&style=for-the-badge&logo=R&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-4479A1.svg?&style=for-the-badge&logo=Figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![FireBase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=FIREBASE&logoColor=white)
