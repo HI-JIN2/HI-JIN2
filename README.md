@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - [**FootPrint**](https://github.com/White-Patrasche/FOOTPRINT_FLUTTER )
 나의 발자국을 남겨요  
 *숭실대 소프트웨어공모전 응모작*  
-2022.07-08 (개발 중단 및 재정비 중)
+2022.07-08 
 `Flutter`  `Firebase`
     
 
