@@ -9,11 +9,6 @@
 
 # 🖥️Develop
 
-- [**SSU-Thing**](https://github.com/SSU-Thing/SSUthing-android)  
-숭실대학교 학생복지위원회 물품 대여사업을 위한 안드로이드 앱  
-2022.02-03 (개발 진행 중) `Kotlin`
-
-
 - [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  
 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
 *UMC 3기 마스터코스*  
