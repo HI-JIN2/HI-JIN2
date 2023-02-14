@@ -3,9 +3,9 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)  
 
-
+- CV : https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b
 
 # 🖥️Develop
 
