@@ -23,18 +23,6 @@
 2022.10-12 (개발 진행 중)
 `JAVA Android`  `BeautifulSoup`  `Firebase`
 
-- [**Terrace-Booking**](https://github.com/Soongsil-Developers/terrace-web)
-정보관 테라스 예약시스템 모바일 기반 웹  
-*SSU-DevCamp*   
-2022.08-11
-`React-Typescript`
-
-- [**FootPrint**](https://github.com/White-Patrasche/FOOTPRINT_FLUTTER )
-나의 발자국을 남겨요  
-*숭실대 소프트웨어공모전 응모작*  
-2022.07-08 
-`Flutter`  `Firebase`
-    
 
 
 
