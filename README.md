@@ -5,8 +5,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)  
 
-- [Computer Science and Engineering](http://cse.ssu.ac.kr/), [Soongsil.Univ](https://ssu.ac.kr/main_renewal/)
-- [Notion CV](https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b)](https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b) 
+![Gmail Badge](https://img.shields.io/badge/jini1514@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jini1514@soongsil.ac.kr)
+
 
 # 🖥️Develop
 
