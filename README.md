@@ -21,7 +21,7 @@
 숭실대에서 먹자! 
 학식 리뷰 안드로이드 앱  
 *사용자인터페이스및실습 프로젝트*  
-2022.10-12 (개발 진행 중)
+2022.10-12
 `JAVA Android`  `BeautifulSoup`  `Firebase`
 
 
@@ -32,7 +32,6 @@
 #### Mobile App 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 
 #### etc
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
