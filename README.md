@@ -59,3 +59,8 @@
 #### Algorithm 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+## My Posts
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jini_1514) 
+<br>
