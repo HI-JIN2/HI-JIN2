@@ -49,7 +49,7 @@
 # 🌐Community
 
 - SSUPER-POWER-Develper
-- SSUMC-3rd-Android  
+- UMC-3rd-Android  
 
 # 💭Etc
 
