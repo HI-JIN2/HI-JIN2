@@ -17,12 +17,12 @@
 2022.01-02 (개발 진행 중)
 `Kotlin`
 
-- [**EAT-SSU**](https://github.com/EAT-SSU/EAT-SSU)
+- [**EAT-SSU**](https://github.com/EAT-SSU/EatSSU-Android)
 숭실대에서 먹자! 
 학식 리뷰 안드로이드 앱  
-*사용자인터페이스및실습 프로젝트*  
+[*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU)
 2022.10-12
-`JAVA Android`  `BeautifulSoup`  `Firebase`
+`Kotlin`
 
 
 
