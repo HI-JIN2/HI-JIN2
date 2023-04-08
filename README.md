@@ -13,16 +13,15 @@
 
 - [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  
 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
-*UMC 3기 마스터코스*  
-2022.01-02 (개발 진행 중)
-`Kotlin`
+*UMC 3기 마스터코스* `Kotlin`  
+1차 개발 :2023.01-02  
+2차 개발 진행 중 :2023.03-
 
-- [**EAT-SSU**](https://github.com/EAT-SSU/EatSSU-Android)
+- [**EAT-SSU**](https://github.com/EAT-SSU)  
 숭실대에서 먹자! 
 학식 리뷰 안드로이드 앱  
-[*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU)
-2022.10-12
-`Kotlin`
+[*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU) :2022.10-12 `JAVA`  
+[*2차 개발 중*](https://github.com/EAT-SSU/EatSSU-Android) :2023.03-04 `Kotlin`
 
 
 
