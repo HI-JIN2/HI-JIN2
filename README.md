@@ -1,3 +1,4 @@
+# [Hi JIN](https://my.surfit.io/w/597611764)  
 
 
 
@@ -7,7 +8,6 @@
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b)](https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b) 
 ![Gmail Badge](https://img.shields.io/badge/jini1514@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jini1514@soongsil.ac.kr)
-
 
 # 🖥️Develop
 
