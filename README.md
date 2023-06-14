@@ -7,7 +7,7 @@
 ![Gmail Badge](https://img.shields.io/badge/jini1514@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jini1514@soongsil.ac.kr)
 
 ## 🌐 Career  
-**SaKak** DS&&BE Developer (2023.06 ~ )  
+[**SaKak**](https://www.sakak.co.kr/) Data Science && BE Developer (2023.06 ~ )  
 
 ## 🖥️ Develop
 
