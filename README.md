@@ -1,15 +1,15 @@
 # [Hi JIN](https://my.surfit.io/w/597611764)  
 
 
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20JIN~&fontSize=90)  
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b)](https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b) 
 ![Gmail Badge](https://img.shields.io/badge/jini1514@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jini1514@soongsil.ac.kr)
 
-# 🖥️Develop
+## 🌐 Career  
+**SaKak** DS&&BE Developer (2023.06 ~ )  
+
+## 🖥️ Develop
 
 - [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  
 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
@@ -25,10 +25,10 @@
 
 
 
-# 🌱Skills
+## 🌱Skills
 ### Platforms & Languages
 #### Develop
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -46,12 +46,12 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 
-# 🌐Community
+## 🌐Community
 
 - SSUPER-POWER-Develper
 - UMC-3rd-Android  
 
-# 💭Etc
+## 💭Etc
 
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-JIN2&layout=compact)](https://github.com/HI-JIN2/github-readme-stats)
