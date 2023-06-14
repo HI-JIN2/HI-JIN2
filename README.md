@@ -49,7 +49,7 @@
 ## 🌐Community
 
 - SSUPER-POWER-Develper
-- UMC-3rd Android, 4th SpringBoot, Vice Lead
+- UMC soongsil - 3rd Android, 4th SpringBoot, Vice Lead
 
 ## 💭Etc
 
