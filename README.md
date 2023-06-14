@@ -14,8 +14,7 @@
 - [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  
 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
 *UMC 3기 마스터코스* `Kotlin`  
-1차 개발 :2023.01-02  
-2차 개발 진행 중 :2023.03-
+개발기간  :2023.01-02  
 
 - [**EAT-SSU**](https://github.com/EAT-SSU)  
 숭실대에서 먹자! 
@@ -28,13 +27,15 @@
 
 # 🌱Skills
 ### Platforms & Languages
-#### Mobile App 
+#### Develop
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-#### etc
+#### DataScience
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-3776AB.svg?&style=for-the-badge&logo=R&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -55,8 +56,9 @@
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-JIN2&layout=compact)](https://github.com/HI-JIN2/github-readme-stats)
 #### Algorithm
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qldls0307)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qldls0307)
 
 
