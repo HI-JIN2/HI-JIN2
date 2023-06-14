@@ -9,7 +9,7 @@
 ## 🌐 Career  
 [**SaKak**](https://www.sakak.co.kr/) Data Science && BE Developer (2023.06 ~ )  
 
-## 🖥️ Develop
+## 🖥️ Project
 
 - [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  
 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
