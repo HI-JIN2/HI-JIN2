@@ -6,8 +6,6 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b)](https://hi-jin-1514.notion.site/Hi-JIN-f124529bf0a34eaa8326ed1e0d81871b) 
 ![Gmail Badge](https://img.shields.io/badge/jini1514@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jini1514@soongsil.ac.kr)
 
-## 🌐 Career  
-- [**SaKak**](https://www.sakak.co.kr/) Data Science && BE Developer (2023.06 ~ )  
 
 ## 🖥️ Project
 
@@ -22,6 +20,8 @@
 [*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU) :2022.10-12 `JAVA`  
 [*2차 개발 중*](https://github.com/EAT-SSU/EatSSU-Android) :2023.03-04 `Kotlin`
 
+- **Your Weather**  
+2023.07- `Spring-Boot`
 
 
 
