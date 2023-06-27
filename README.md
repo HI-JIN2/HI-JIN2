@@ -9,26 +9,13 @@
 
 ## 🖥️ Project
 
-- [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)  
-체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
-*UMC 3기 마스터코스* `Kotlin`  
-개발기간  :2023.01-02  
+|프로젝트명|설명|개발기간|사용스택|
+|---|---|---|---|
+| [**FIT-I**](https://github.com/FIT-I/FIT-I-Android) |체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  |2023.01-02 : *UMC 3기 마스터코스*|![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white) |
+| [**EAT-SSU**](https://github.com/EAT-SSU) |숭실대에서 먹자! 학식 리뷰 안드로이드 앱 |2022.10-12 : [*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU)|![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white) ![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")  
+ | | |2023.03-04 : [*2차 개발 중*](https://github.com/EAT-SSU/EatSSU-Android)  | ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)  |
+| **Your Weather** | 오늘 당신의 감정날씨는? |2023.07- | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white") ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) |
 
-- [**EAT-SSU**](https://github.com/EAT-SSU)  
-숭실대에서 먹자! 
-학식 리뷰 안드로이드 앱  
-[*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU) :2022.10-12 
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")  
-[*2차 개발 중*](https://github.com/EAT-SSU/EatSSU-Android) :2023.03-04
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)  
-
-- **Your Weather**  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
-2023.07- 
 
 
 
