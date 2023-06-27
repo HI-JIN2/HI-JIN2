@@ -9,7 +9,8 @@
 
 ## 🖥️ Project
 
-- [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  
+- [**FIT-I**](https://github.com/FIT-I/FIT-I-Android)  ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)  
 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  
 *UMC 3기 마스터코스* `Kotlin`  
 개발기간  :2023.01-02  
@@ -17,35 +18,42 @@
 - [**EAT-SSU**](https://github.com/EAT-SSU)  
 숭실대에서 먹자! 
 학식 리뷰 안드로이드 앱  
-[*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU) :2022.10-12 `JAVA`  
-[*2차 개발 중*](https://github.com/EAT-SSU/EatSSU-Android) :2023.03-04 `Kotlin`
+[*사용자인터페이스및실습 프로젝트*](https://github.com/EAT-SSU/EAT-SSU) :2022.10-12 
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")  
+[*2차 개발 중*](https://github.com/EAT-SSU/EatSSU-Android) :2023.03-04
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)  
 
-- **Your Weather**  
-2023.07- `Spring-Boot`
+- **Your Weather**  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+2023.07- 
+
 
 
 
 ## 🌱Skills
 ### Platforms & Languages
 #### Develop
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
+![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 
 #### DataScience
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat&logo=R&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-![FireBase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=for-the-badge&logo=FIREBASE&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white)
+![FireBase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=FIREBASE&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
 
 
 ## 🌐Community
