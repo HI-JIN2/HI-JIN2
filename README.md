@@ -1,4 +1,4 @@
-# [Hi JIN](https://my.surfit.io/w/597611764)  
+# [Hi JIN resume](https://my.surfit.io/w/597611764)
 
 
 - I am very much interested in Android app development   
