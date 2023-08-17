@@ -8,7 +8,7 @@
 
 ## 💼 Career
 
-- **[SaKak](https://www.sakak.co.kr/)** Data Science && BackEnd Developer (2023.06 ~ )
+- **[SaKak](https://www.sakak.co.kr/)** Data Scraping && BackEnd Developer (2023.06 ~ )
 
 ## 🖥️ Project
 
