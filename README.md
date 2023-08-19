@@ -2,7 +2,7 @@
 
 - [resume](https://my.surfit.io/w/597611764)
 - I am very much interested in Android app development   
-- I studying at Web Crawling and Scraping with Python
+- I studying Web Crawling and Scraping with Python
 
 
 
@@ -46,7 +46,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white)
-![FireBase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=FIREBASE&logoColor=white)  
+![FireBase](https://img.shields.io/badge/FireBase-FFCA28.svg?&style=flat&logo=FireBase&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
 
@@ -61,4 +61,5 @@
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qldls0307)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHI-JIN2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
