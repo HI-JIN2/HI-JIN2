@@ -23,34 +23,6 @@
 
 
 
-
-## 🌱Skills
-### Platforms & Languages
-#### Moblie
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white)
-![JAVA](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white")
-
-#### Server
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
-
-#### DataScience
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat&logo=R&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white)
-![FireBase](https://img.shields.io/badge/FireBase-FFCA28.svg?&style=flat&logo=FireBase&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
-
-
 ## 🌐Community
 
 - SSUPER-POWER-Develper
