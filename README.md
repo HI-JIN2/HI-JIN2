@@ -10,6 +10,7 @@
 
 - **[SaKak](https://www.sakak.co.kr/)** Data Scraping && BackEnd Developer (2023.06 ~ )
 
+
 ## 🖥️ Project
 
 |프로젝트명|설명|개발기간|사용스택|
@@ -21,11 +22,9 @@
 
 
 
-
-
 ## 🌐Community
 
-- SSUPER-POWER-Develper
+- SSUPER-POWER-Developer
 - UMC soongsil
   - 3rd Android
   - 4th SpringBoot, Vice Lead
