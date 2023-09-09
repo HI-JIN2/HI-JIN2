@@ -1,9 +1,11 @@
 # Hi JIN
 
-- [Resume](https://my.surfit.io/w/597611764)
-- I am very much interested in Android app development   
-- I studying Web Crawling and Scraping with Python
-
+- **[Resume](https://my.surfit.io/w/597611764)**
+- I have a strong interest in Android app development, particularly using Kotlin.
+  - Currently, I am deepening my understanding of the MVVM (Model-View-ViewModel) architecture.
+  - I'm also eager to explore Jetpack Compose, although I haven't started using it yet.
+- In addition to Android development, I am actively studying server development using Spring Boot and Flask.
+- Furthermore, I am engaged in learning web crawling and scraping techniques using Python. 
 
 
 ## 💼 Career
