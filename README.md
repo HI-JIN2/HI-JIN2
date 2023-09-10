@@ -27,7 +27,7 @@
 ## 🌐Community
 
 - SSUPER-POWER-Developer
-- UMC soongsil
+- UMC Soongsil
   - 3rd Android
   - 4th SpringBoot, Vice Lead
 
