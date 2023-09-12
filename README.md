@@ -1,11 +1,12 @@
 # Hi JIN
 
 - **[Resume](https://my.surfit.io/w/597611764)**
-- I have a strong interest in Android app development, particularly using Kotlin.
-  - Currently, I am deepening my understanding of the MVVM (Model-View-ViewModel) architecture.
-  - I'm also eager to explore Jetpack Compose, although I haven't started using it yet.
-- In addition to Android development, I am actively studying server development using Spring Boot and Flask.
-- Furthermore, I am engaged in learning web crawling and scraping techniques using Python. 
+- 안드로이드를 좋아합니다. 코틀린을 사용해요!
+  - MVVM 패턴에 익숙해지려 노력하는 중입니다.
+  - Jetpack Compose에 입문하려 합니다.
+- 자바와 SpringBoot를 사용한 서버 개발도 공부하고 있습니다.
+- 파이썬으로 웹 크롤링과 스크래핑하는 것을 시도해봤습니다.
+- IT 창업에 관심을 가지고 있습니다. 
 
 
 ## 💼 Career
