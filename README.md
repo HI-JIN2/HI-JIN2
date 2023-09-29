@@ -26,14 +26,14 @@
 
 
 
-## 🌐Community
+## 🌐 Community
 
 - SSUPER-POWER-Developer
 - UMC Soongsil
   - 3rd Android
   - 4th SpringBoot, Vice Lead
 
-## 💭Etc
+## 💭 Etc
 
 ![HI-JIN2's github stats](https://github-readme-stats.vercel.app/api?username=HI-JIN2&show_icons=true)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qldls0307)
