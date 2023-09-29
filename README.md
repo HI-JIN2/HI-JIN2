@@ -1,13 +1,14 @@
 # Hi JIN
 
 - **[Resume](https://my.surfit.io/w/597611764)**
+- 숭실대학교 컴퓨터학부 21학번, 3학년 재학 중 입니다. 
 - Android를 좋아합니다. Kotlin을 사용해요!
   - MVVM 패턴에 익숙해지려 노력하는 중입니다.
   - Jetpack Compose에 입문하려 합니다.
 - JAVA와 SpringBoot를 사용한 서버 개발도 공부하고 있습니다.
 - PS 언어로는 Python을 사용합니다. 
-- Python으로 Web Crawling & Scrapling을 시도해봤습니다.
-- Python과 R 언어로 데이터 분석 및 시각화를 시도해봤습니다. 
+- Python으로 Web Crawling & Scrapling을 해봤습니다.
+- Python과 R 언어로 데이터 분석 및 시각화를 해봤습니다. 
 - IT 창업에 관심을 가지고 있습니다. 
 
 
