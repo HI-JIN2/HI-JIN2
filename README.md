@@ -35,6 +35,9 @@
 - UMC Soongsil
   - 3rd Android
   - 4th SpringBoot, Vice Lead
+- YOURSSU Android Developer
+- Google Developer Student Clubs Soongsil 23-24
+
 
 ## 💭 Etc
 
