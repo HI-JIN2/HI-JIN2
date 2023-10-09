@@ -7,8 +7,6 @@
   - Jetpack Compose에 입문하려 합니다.
 - `JAVA`와 `SpringBoot`를 사용한 서버 개발도 공부하고 있습니다.
 - PS 언어로는 `Python`을 사용합니다. 
-- `Python`으로 Web Crawling & Scrapling 경험이 있습니다.
-- `Python`과 `R`로 데이터 분석 및 시각화 경험이 있습니다.
 - IT 창업에 관심을 가지고 있습니다. 
 
 
