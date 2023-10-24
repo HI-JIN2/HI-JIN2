@@ -15,7 +15,10 @@
 - **[SaKak](https://www.sakak.co.kr/)** Data Scraping && BackEnd Developer (2023.06 ~ 08)
 
 
-## 🖥️ Project
+## 🖥️ Activity
+<details>
+<summary>Project</summary>
+<div markdown="1">
 
 |프로젝트명|설명|개발기간|사용스택|
 |---|---|---|---|
@@ -25,6 +28,18 @@
 | | [사용자 인터페이스 및 실습 - 프로젝트](https://github.com/EAT-SSU/EAT-SSU)  |  2022.10-12  |![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)  ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white") ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white") |
 | [**FIT-I**](https://github.com/FIT-I/FIT-I-Android) | 체육대학 전공생이 제공해주는 저렴한 PT 서비스: 누구나 쉬운 PT  |2023.01-02 |![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white) |
 
+
+</div>
+</details>
+
+<details>
+<summary>Awards</summary>
+<div markdown="1">
+
+
+
+</div>
+</details>
 
 
 ## 🌐 Community
