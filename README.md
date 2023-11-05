@@ -39,7 +39,7 @@
   
 |대회명|수상명|역할|프로젝트명|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|AI활용 온라인 개발대회 싱커톤 시즌3|-|PM & 안드로이드 개발/노코드 백엔드 개발|[MoneyMate](https://github.com/MoneyMate-project/MoneyMate)|2023년 10월 31일|
+|AI활용 온라인 개발대회 싱커톤 시즌3|-|PM & 안드로이드 개발/노코드 백엔드 개발|[MoneyMate](https://github.com/MoneyMate-project/MoneyMate)|2023년 11월 8일|
 |숭실대 IT 대학 소프트웨어 공모전|금상|PM & 안드로이드 개발|[EAT-SSU](https://github.com/EAT-SSU/EatSSU-Android)|2023년 8월 7일|
 
 
