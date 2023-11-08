@@ -3,8 +3,6 @@
 - **[Resume](https://my.surfit.io/w/597611764)**
 - 안녕하세요! 숭실대학교 컴퓨터학부 21학번, 3학년 재학 중인 **유진**입니다. 
 - `Android`를 좋아합니다. `Kotlin`을 사용해요!
-  - MVVM 패턴에 익숙해지려 노력하는 중입니다.
-  - Jetpack Compose에 입문하려 합니다.
 - `JAVA`와 `SpringBoot`를 사용한 서버 개발도 공부하고 있습니다.
 - PS 언어로는 `Python`을 사용합니다. 
 - IT 창업에 관심을 가지고 있습니다. 
@@ -39,7 +37,7 @@
   
 |대회명|수상명|역할|프로젝트명|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|AI활용 온라인 개발대회 싱커톤 시즌3|-|PM & 안드로이드 개발/노코드 백엔드 개발|[MoneyMate](https://github.com/MoneyMate-project/MoneyMate)|2023년 11월 8일|
+|AI활용 온라인 개발대회 싱커톤 시즌3|최우수상|PM & 안드로이드 개발/노코드 백엔드 개발|[MoneyMate](https://github.com/MoneyMate-project/MoneyMate)|2023년 11월 8일|
 |숭실대 IT 대학 소프트웨어 공모전|금상|PM & 안드로이드 개발|[EAT-SSU](https://github.com/EAT-SSU/EatSSU-Android)|2023년 8월 7일|
 
 
