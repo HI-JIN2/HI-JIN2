@@ -5,7 +5,8 @@
 - `Android`를 좋아합니다. `Kotlin`을 사용해요!
 - `JAVA`와 `SpringBoot`를 사용한 서버 개발도 공부하고 있습니다.
 - PS 언어로는 `Python`을 사용합니다. 
-- IT 창업에 관심을 가지고 있습니다. 
+- IT 창업에 관심을 가지고 있습니다.
+- `EAT-SSU: 숭실대 학식 리뷰 앱`의 PM, 안드로이드 개발, 그리고 운영을 담당하고 있습니다. [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.eatssu.android)
 
 
 ## 💼 Career
