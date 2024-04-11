@@ -1,6 +1,7 @@
 # Hi JIN
 
-- **[Resume](https://my.surfit.io/w/597611764)**
+- [Resume](https://my.surfit.io/w/597611764)
+- [Notion Portfolio](https://bit.ly/3PgSzTE)
 - 안녕하세요! `Android`와 `백엔드`를 조금 하는 **유진**입니다. 
   - `Android`를 좋아합니다. `Kotlin`을 사용해요!
   - `JAVA`와 `SpringBoot`를 사용한 서버 개발도 공부하고 있습니다.
