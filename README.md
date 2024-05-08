@@ -14,11 +14,11 @@
 
 
 ## 🎓 Education
-- Computer Science && Engineering, Soongsil Univ. 2021.03~
+- Computer Science && Engineering, Soongsil Univ. <sub>2021.03~</sub>
 
 ## 🌐 Community
-- Google Developer Student Clubs Soongsil 23-24 <sub> 2023.09~</sub>
-- YOURSSU Android Developer <sub> 2023.09~</sub>
+- Google Developer Student Clubs Soongsil 23-24 <sub> 2023.10~</sub>
+- YOURSSU Android Developer <sub> 2023.10~</sub>
 - UMC Soongsil
   - 3rd Android <sub> 2022.09~2023.02</sub>
   - 4th SpringBoot, Vice Lead <sub> 2023.03~08</sub>
