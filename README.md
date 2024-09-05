@@ -3,13 +3,8 @@
 - 안녕하세요! `Android`와 `백엔드`를 하는 **유진**입니다.   
 - 질문에 능한 사람이 되려고 노력합니다. 질문하는 것과 받는 것 둘 다 좋아해요.
 - IT 창업에 관심을 가지고 있습니다.
-- **EAT-SSU: 숭실대 학식 리뷰 앱**의 `PM`, `안드로이드 개발`, 그리고 `운영`을 담당하고 있습니다.
-   - <a href="https://play.google.com/store/apps/details?id=com.eatssu.android"><img 
-        src="http://img.shields.io/badge/-Google Play-brightgreen?style=flat&logo=googleplay&link=https://play.google.com/store/apps/details?id=com.eatssu.android"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
-  <a href="https://apps.apple.com/kr/app/eat-ssu-%EC%88%AD%EC%8B%A4%EB%8C%80-%ED%95%99%EC%8B%9D-%EB%A6%AC%EB%B7%B0-%EC%95%B1/id6472618331"> <img 
-        src="http://img.shields.io/badge/-App Store-blue?style=flat&logo=appstore&link=https://apps.apple.com/kr/app/eat-ssu-%EC%88%AD%EC%8B%A4%EB%8C%80-%ED%95%99%EC%8B%9D-%EB%A6%AC%EB%B7%B0-%EC%95%B1/id6472618331"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+- [EAT-SSU: 숭실대 학식 리뷰 앱](https://play.google.com/store/apps/details?id=com.eatssu.android)의 `PM`, `안드로이드 개발`, 그리고 `운영`을 담당하고 있습니다.
+
 
         
 
