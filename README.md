@@ -1,8 +1,6 @@
 # Hi JIN
 
 - 안녕하세요! `Android`와 `백엔드`를 하는 **유진**입니다.   
-- 질문에 능한 사람이 되려고 노력합니다. 질문하는 것과 받는 것 둘 다 좋아해요.
-- IT 창업에 관심을 가지고 있습니다.
 - [EAT-SSU: 숭실대 학식 리뷰 앱](https://play.google.com/store/apps/details?id=com.eatssu.android)의 `PM`, `안드로이드 개발`, 그리고 `운영`을 담당하고 있습니다.
 
 
