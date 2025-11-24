@@ -12,3 +12,11 @@
 - Yourssu Android (2023.09 ~ 2024.12)
 - UMC 4기 SSU Vice Lead & Spring Boot (2023.03 ~ 2023.08)
 - UMC 3기 Android (2022.09 ~ 2023.02)
+
+## Interview & Article
+- [🍚 팀플로 잇슈를 만든 거라고? 🍚 | 숭실대학교 잇슈 팀 인터뷰](https://www.youtube.com/watch?v=mCcEYAgV6uo&t=1s)
+- [Meet the EAT-SSU Team : Creating a Cafeteria Review App for SSU Student](http://www.sstimes.net/news/articleView.html?idxno=4052)
+- [[싱커톤 시즌 3 수상작 소개] 최우수상🥈 - ChatGPT와 함께하는 슬기로운 금융 목표 관리 서비스 <머니메이트>](https://blog.naver.com/synctree/223267230931)
+
+## Presentation
+- [[✨SSUMALL SEMINAR✨] 학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
