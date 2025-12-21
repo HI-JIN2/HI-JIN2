@@ -1,10 +1,10 @@
 ## Work Experience
 - [SK m&service](https://www.skmnservice.com/pc_new/html/main.skmns) (2025.07 ~ 09)
-  - Biz솔루션사업본부 Mobility사업 담당, Android Developer Intern
+  - Biz솔루션사업본부 Mobility사업 담당, Software Engineer Intern
 - [Ratio](https://trimm.bike/ko) (2024.09 ~ 12)
-  - Android Developer Intern
+  - Software Engineer Intern
 - [Sakak](https://www.sakak.co.kr/) (2023.06 ~ 08)
-  - Backend Developer Intern
+  - Software Engineer Intern
 
 ## Activity
 - GDSC Soongsil 3, 4기 (2023.10 ~ 2025.08)
