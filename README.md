@@ -58,9 +58,9 @@
 <br>
 
 ### Interview
-- [🍚 팀플로 잇슈를 만든 거라고? 🍚 | 숭실대학교 잇슈 팀 인터뷰](https://www.youtube.com/watch?v=mCcEYAgV6uo&t=1s)
-- [Meet the EAT-SSU Team : Creating a Cafeteria Review App for SSU Student](http://www.sstimes.net/news/articleView.html?idxno=4052)
-- [[싱커톤 시즌 3 수상작 소개] 최우수상🥈 - ChatGPT와 함께하는 슬기로운 금융 목표 관리 서비스 <머니메이트>](https://blog.naver.com/synctree/223267230931)
+- 숭실대학교 공식 유튜브, [🍚 팀플로 잇슈를 만든 거라고? 🍚 | 숭실대학교 잇슈 팀 인터뷰](https://www.youtube.com/watch?v=mCcEYAgV6uo&t=1s)
+- 숭실대학교 영자신문편집국, [Meet the EAT-SSU Team : Creating a Cafeteria Review App for SSU Student](http://www.sstimes.net/news/articleView.html?idxno=4052)
+- 싱크트리 공식 블로그, [[싱커톤 시즌 3 수상작 소개] 최우수상🥈 - ChatGPT와 함께하는 슬기로운 금융 목표 관리 서비스 <머니메이트>](https://blog.naver.com/synctree/223267230931)
 <br>
 
 
