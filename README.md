@@ -43,6 +43,7 @@
 ### Experience
 - GDSC Soongsil 3, 4기 <sub>(2023.10 ~ 2025.08)</sub>
 - Pre-startup COGO <sub>(2024.08 ~ 2024.12)</sub>
+- 아산나눔재단, 2024 아산 두어스 대학생 창업 부트캠프 1기<sub>(2024.01)</sub>
 - Yourssu Android <sub>(2023.09 ~ 2024.12)</sub>
 - UMC 4th SSU Vice Lead & Spring Boot <sub>(2023.03 ~ 2023.08)</sub>
 - UMC 3rd Android <sub>(2022.09 ~ 2023.02)</sub>
