@@ -4,6 +4,10 @@
 ### Introduce 
 나무보다 숲을 바라보는 개발자 `유진`입니다.
 
+### Contact
+qldls0307@naver.com
+
+
 
 <div align="left">       
 <details>
