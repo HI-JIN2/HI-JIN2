@@ -7,6 +7,12 @@
 ### Contact
 qldls0307@naver.com
 
+### 운영 중인 서비스
+ - [EAT-SSU, 숭실대 학식 리뷰 앱](https://play.google.com/store/apps/details?id=com.eatssu.android)<sub>(2022.11 ~ )</sub><br>
+ - [마니또 배정 이메일 전송 서비스](https://manitto-frontend.vercel.app/)<sub>(2025.12 ~ )</sub><br>
+ - [도서 영수증 메이커](https://book-receipt.vercel.app/)<sub>(2026.01 ~ )</sub><br>
+
+
 
 
 <div align="left">       
@@ -26,6 +32,7 @@ qldls0307@naver.com
 
 ### Side Project
  - [EAT-SSU](https://github.com/EAT-SSU/Android)(잇슈, 숭실대 학식 리뷰 앱) - 안드로이드 개발, 총괄 리드 및 운영 <sub>(2022.11 ~ )</sub><br>
+ - [도서 영수증 메이커](https://book-receipt.vercel.app/) - 웹 풀스택 1인 개발 및 운영 <sub>(2026.01 ~ )</sub><br>
  - [마니또 파티](https://github.com/HI-JIN2/manitto-backend)(마니또 배정 이메일 전송 서비스) - 웹 풀스택 1인 개발 및 운영 <sub>(2025.12 ~ )</sub><br>
  - [새길](https://github.com/saegil-project/Saegil-Android)(북한이탈주민 정착지원 서비스) - 안드로이드 개발, 팀장 <sub>(2025.03 ~ 2025.06)</sub><br>
  - [ISBN 바코드 스캔 기반 도서 전산 시스템](https://github.com/HI-JIN2/isbn-scanner-mini-library) - 안드로이드 풀스택 1인 개발 <sub>(2024.07)</sub><br>
