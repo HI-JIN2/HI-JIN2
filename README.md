@@ -62,8 +62,8 @@ qldls0307@naver.com
 
 
 ### Presentation
-- [[✨GDSC SSUMALL SEMINAR✨] 학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
-- [GDGoC SSUMALL SEMINAR] 해외봉사가서 개발한 썰 푼다
+- [GDSC SSUMALL SEMINAR] [학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
+- [GDGoC SSUMALL SEMINAR] [해외봉사가서 개발하기](https://www.youtube.com/watch?v=BcnWM_nqKow)
 - [GDGoC SSUMALL SEMINAR] ICT 인턴십제도와 스타트업 인턴 후기
 - [UMC 4th Conference] JWT로 알아보는 안드로이드-서버가 소통하는 법
 <br>
