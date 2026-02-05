@@ -2,10 +2,13 @@
 
 
 ### Introduce 
-나무보다 숲을 바라보는 개발자 `유진`입니다.
+나무보다 숲을 바라보며, 전체 구조와 맥락을 중요하게 생각하는 개발자 `유진`입니다.
 
 ### Contact
 qldls0307@naver.com
+
+
+>Kotlin / Android / Spring Boot
 
 ### My Current Project
  - [reciepty - 도서, 영화 영수증 메이커](https://www.receiptystudio.com/)<sub>(2026.01 ~ )</sub><br>
