@@ -8,12 +8,12 @@
 qldls0307@naver.com
 
 
->Kotlin / Android / Spring Boot
+>Kotlin / Android / Spring / Cloud
 
 ### My Current Project
  - [reciepty - 도서, 영화 영수증 메이커](https://www.receiptystudio.com/)<sub>(2026.01 ~ )</sub><br>
  - [마니또 배정 이메일 전송 서비스](https://manitto-frontend.vercel.app/)<sub>(2025.12 ~ )</sub><br>
- - [EAT-SSU - 숭실대 학식 리뷰 앱](https://play.google.com/store/apps/details?id=com.eatssu.android)<sub>(2022.11 ~ )</sub><br>
+ - [EAT-SSU - 숭실대 학식 리뷰 앱](https://play.google.com/store/apps/details?id=com.eatssu.android) (5,000+ users)<sub>(2022.11 ~ )</sub><br>
 
 
 
