@@ -11,9 +11,9 @@ qldls0307@naver.com
 >Kotlin / Android / Spring / Cloud
 
 ### Main Projects
- - [EAT-SSU - 숭실대 학식 리뷰 앱](https://play.google.com/store/apps/details?id=com.eatssu.android) (5,000+ users)<sub>(2022.11 ~ )
+ - [EAT-SSU](https://play.google.com/store/apps/details?id=com.eatssu.android) - 숭실대 학식 리뷰 앱 (5,000+ users)<sub>(2022.11 ~ )
  - [마니또 배정 이메일 전송 서비스](https://manitto-frontend.vercel.app/)<sub>(2025.12 ~ )</sub><br>
- - [reciepty - 도서, 영화 영수증 메이커](https://www.receiptystudio.com/)<sub>(2026.01 ~ )</sub><br>
+ - [reciepty](https://www.receiptystudio.com/)- 도서, 영화 영수증 메이커<sub>(2026.01 ~ )</sub><br>
  - 공고zip - AI 기반 주택청약 공고 분석 자동화 시스템 <sub>(2026.03 ~ )
 <br>
 
