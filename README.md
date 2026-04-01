@@ -1,80 +1,89 @@
+# Introduce
 
+안드로이드 개발을 가장 강점으로 삼고,  
+백엔드와 클라우드 인프라까지 확장하고 있는 개발자 **유진**입니다.
 
+나무보다 숲을 보며, 기능 구현을 넘어 서비스가 안정적으로 동작하는 구조와 운영 맥락까지 함께 고민합니다.
 
-### Introduce 
-나무보다 숲을 바라보며, 전체 구조와 맥락을 중요하게 생각하는 개발자 `유진`입니다.
+- Strong in **Kotlin, Android**
+- Currently studying **Spring, Cloud Infrastructure**
 
-### Contact
-qldls0307@naver.com
+## Contact
+- Email: [qldls0307@naver.com](mailto:qldls0307@naver.com)
 
+## Experience
 
->Kotlin / Android / Spring / Cloud
+### [SK m&service](https://www.skmnservice.com/pc_new/html/main.skmns)
+_**2025. 07. ~ 2025. 09. | Android Engineer Intern, Mobility Business**_
+- TMAP AUTO 디버깅을 위한 Mock GPS 안드로이드 앱 개발
+- 대용량 주행 로그 파싱 구조 최적화로 **처리 시간 50.6% 개선**
+- Foreground Service 기반으로 장시간 안정적인 시뮬레이션 환경 구축
 
-### Main Projects
- - [EAT-SSU](https://play.google.com/store/apps/details?id=com.eatssu.android) - 숭실대 학식 리뷰 앱 (5,000+ users)<sub>(2023.03 ~ )
+### [Ratio](https://trimm.bike/ko)
+_**2024. 09. ~ 2024. 12. | Android Engineer Intern**_
+- BLE **GATT Server** 기반 가상 e-bike 시연 앱 개발
+- `Thread.join()` 기반 레거시 동시성 처리를 Coroutines로 전환해 UI 프리징 구간을 **250ms → 0.5ms** 수준으로 개선
+- Foreground Service로 백그라운드 BLE 통신 안정성 확보
 
+### [Sakak](https://www.sakak.co.kr/)
+_**2023. 06. ~ 2023. 08. | Backend Engineer Intern**_
+- 5개+ 쇼핑몰의 결제 데이터를 통합하는 파싱 API 개발
+- MongoDB 기반 통합 스키마 설계 및 비정형 데이터 정규화
+- Pytest 기반 TDD로 파싱 정합성 검증 체계 구축
 
+## Main Projects
 
-<div align="left">       
+### [EAT-SSU](https://github.com/EAT-SSU/Android) | [Google Play](https://play.google.com/store/apps/details?id=com.eatssu.android)
+_**2023. 03. ~ | Team Leader, Main Android Developer, PM, AWS Infra Operation**_
+- 숭실대학교 학식 리뷰 앱, 누적 사용자 **5,000+**
+- **WAU/MAU 21.8% → 62.4%** 개선
+- Crashlytics + Slack 연동으로 주요 크래시 15건 이상 대응하며 안정적 운영 체계 구축
+- Remote Config 도입으로 식당 운영 정보를 코드 수정 없이 실시간 반영
+- Fastlane 기반 릴리즈 자동화
+- JWT 갱신 Race Condition 해결
+
+### Parkit
+_**2026. 02. ~ | Infrastructure Design, Backend Development**_
+- **Kubernetes + Kafka** 기반 실시간 주차 코칭 시스템 설계
+- `analysis-service`와 `socket-service`를 분리한 이벤트 기반 파이프라인 구축
+- STOMP WebSocket fan-out 구조로 저지연 실시간 코칭 전송 구현
+
 <details>
-<summary><h3>Etc </h3></summary>
-<div markdown="1">       
-</div>
-
-### Work Experience
-- [SK m&service](https://www.skmnservice.com/pc_new/html/main.skmns) <sub>(2025.07 ~ 2025.09)</sub>
-  - Biz솔루션사업본부 Mobility사업 담당, Software Engineer Intern
-- [Ratio](https://trimm.bike/ko) <sub>(2024.09 ~ 2024.12)</sub>
-  - Software Engineer Intern
-- [Sakak](https://www.sakak.co.kr/) <sub>(2023.06 ~ 2023.08)</sub>
-  - Software Engineer Intern
-<br>
-
-### Side Project
- - [EAT-SSU](https://github.com/EAT-SSU/Android)(잇슈, 숭실대 학식 리뷰 앱) - 안드로이드 개발, 총괄 리드 및 운영 <sub>(2022.11 ~ )</sub><br>
- - [새길](https://github.com/saegil-project/Saegil-Android)(북한이탈주민 정착지원 서비스) - 안드로이드 개발, 팀장 <sub>(2025.03 ~ 2025.06)</sub><br>
- - [ISBN 바코드 스캔 기반 도서 전산 시스템](https://github.com/HI-JIN2/isbn-scanner-mini-library) - 안드로이드 풀스택 1인 개발 <sub>(2024.07)</sub><br>
- - [COOING](https://github.com/COOING-team/COOING-Server)(쿠잉, 아이의 음성으로 쓰는 성장일기) - 백엔드 개발, 인프라 <sub>(2023.10 ~ 2023.12)</sub><br>
- - [머니메이트](https://github.com/MoneyMate-project/MoneyMate)(금융 API와 AI를 활용한 금융조언 앱) - 안드로이드 개발, 백엔드, 프롬프팅, 팀장 <sub>(2023.10 ~ 2023.11)</sub><br>
-<br>
-
-### Award
-- 15회 숭실 캡스톤디자인 경진대회 장려상<sub>(숭실대 공학교육혁신센터, 2025.10)</sub><br>
-- 소프트웨어 공모전 은상<sub>(숭실대 IT대학, 2025.07)</sub><br>
-- GDSC 2024 대학 연합 해커톤 최우수상(2위) <sub>(GDSC 대학 연합, 2024.01)</sub><br>
-- <strong>K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 금상(2위) </strong><sub>(한국지능정보사회진흥원, 2023.12)</sub><br>
-- <strong>AI활용 온라인 개발대회 싱커톤 시즌3 최우수상(2위)</strong> <sub>(주식회사 엔터플, 2023.11)</sub><br>
-- 소프트웨어 공모전 금상<sub>(숭실대 IT대학, 2023.08)</sub><br>
-- UMC 3기 대학 연합 데모데이 대상(1위) <sub>(UMC 대학 연합, 2023.01)</sub><br>
-- UMC 3기 대학 연합 해커톤 2위 <sub>(UMC 대학 연합, 2022.11)</sub><br>
-<br>
-
-### Experience
-- GDSC Soongsil 3, 4기 <sub>(2023.10 ~ 2025.08)</sub>
-- 숭실대학교 창업지원단 Pre-startup, COGO <sub>(2024.08 ~ 2024.12)</sub>
-- 아산나눔재단, 2024 아산 두어스 대학생 창업 부트캠프 1기<sub>(2024.01)</sub>
-- Yourssu Android <sub>(2023.09 ~ 2024.12)</sub>
-- UMC 4th SSU Vice Lead & Spring Boot <sub>(2023.03 ~ 2023.08)</sub>
-- UMC 3rd Android <sub>(2022.09 ~ 2023.02)</sub>
-<br>
+<summary><strong>More Projects</strong></summary>
 
 
-### Presentation
-- [GDSC SSUMALL SEMINAR] [학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
-- [GDGoC SSUMALL SEMINAR] [해외봉사가서 개발하기](https://www.youtube.com/watch?v=BcnWM_nqKow)
-- [GDGoC SSUMALL SEMINAR] ICT 인턴십제도와 스타트업 인턴 후기
-- [UMC 4th Conference] JWT로 알아보는 안드로이드-서버가 소통하는 법
-<br>
+### [머니메이트](https://github.com/MoneyMate-project/MoneyMate)
+_**2023. 10. ~ 2023. 11. | Android, Backend, AI Prompting, Team Leader**_
+- 금융 API와 AI를 활용한 개인형 재무 목표 관리 서비스
+- AI 활용 온라인 개발대회 싱커톤 시즌3 **최우수상(2위)** 수상
 
-### Interview
-- 숭실대학교 공식 유튜브, [🍚 팀플로 잇슈를 만든 거라고? 🍚 | 숭실대학교 잇슈 팀 인터뷰](https://www.youtube.com/watch?v=mCcEYAgV6uo&t=1s)
-- 숭실대학교 영자신문편집국, [Meet the EAT-SSU Team : Creating a Cafeteria Review App for SSU Student](http://www.sstimes.net/news/articleView.html?idxno=4052)
-- 싱크트리 공식 블로그, [[싱커톤 시즌 3 수상작 소개] 최우수상🥈 - ChatGPT와 함께하는 슬기로운 금융 목표 관리 서비스 <머니메이트>](https://blog.naver.com/synctree/223267230931)
-<br>
+### [ISBN 기반 미니도서관 전산화 시스템](https://github.com/HI-JIN2/isbn-scanner-mini-library)
+_**2024. 07. | Android Solo Developer**_
+- 인도네시아 미니도서관을 위한 ISBN 스캔 기반 도서 전산 시스템
+- Google Books API + Google Sheets 기반으로 600권 이상 전산화 지원
 
+</details>
 
-### Education & Certification
-- 숭실대학교 컴퓨터학부 <sub>(2021.03 ~ 2025.08)</sub><br>
-- SQLD <sub>(2025.12)</sub>
-- 정보처리기사 <sub>(2024.12)</sub>
-<br>
+## Awards
+- K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 **금상(2위)**, 2023.12
+- AI 활용 온라인 개발대회 싱커톤 시즌3 **최우수상(2위)**, 2023.11
+- 숭실대학교 소프트웨어 공모전 **금상**, 2023.08
+- 숭실대학교 소프트웨어 공모전 **은상**, 2025.07
+- 숭실 캡스톤디자인 경진대회 장려상, 2025.10
+
+## Community
+- GDSC Soongsil (2023.10 ~ 2025.08)
+- YOURSSU Android (2023.09 ~ 2024.12)
+- UMC 4th SSU Vice Lead / Spring Boot (2023.03 ~ 2023.08)
+- UMC 3rd Android (2022.09 ~ 2023.02)
+
+### Talks
+- [학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
+- [해외봉사가서 개발하기](https://www.youtube.com/watch?v=BcnWM_nqKow)
+- ICT 인턴십제도와 스타트업 인턴 후기
+- JWT로 알아보는 안드로이드-서버가 소통하는 법
+
+## Education & Certification
+- 숭실대학교 컴퓨터학부 (2021.03 ~ 2025.08)
+- 정보처리기사
+- SQLD
