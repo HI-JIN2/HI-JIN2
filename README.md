@@ -12,11 +12,6 @@ qldls0307@naver.com
 
 ### Main Projects
  - [EAT-SSU](https://play.google.com/store/apps/details?id=com.eatssu.android) - 숭실대 학식 리뷰 앱 (5,000+ users)<sub>(2023.03 ~ )
- - [마니또 배정 이메일 전송 서비스](https://manitto-frontend.vercel.app/)<sub>(2025.12 ~ )</sub><br>
- - [reciepty](https://www.receiptystudio.com/)- 도서, 영화 영수증 메이커<sub>(2026.01 ~ )</sub><br>
- - 공고zip - AI 기반 주택청약 공고 분석 자동화 시스템 <sub>(2026.03 ~ )
-<br>
-
 
 
 
@@ -37,8 +32,6 @@ qldls0307@naver.com
 
 ### Side Project
  - [EAT-SSU](https://github.com/EAT-SSU/Android)(잇슈, 숭실대 학식 리뷰 앱) - 안드로이드 개발, 총괄 리드 및 운영 <sub>(2022.11 ~ )</sub><br>
- - [도서 영수증 메이커](https://book-receipt.vercel.app/) - 웹 풀스택 1인 개발 및 운영 <sub>(2026.01 ~ )</sub><br>
- - [마니또 파티](https://github.com/HI-JIN2/manitto-backend)(마니또 배정 이메일 전송 서비스) - 웹 풀스택 1인 개발 및 운영 <sub>(2025.12 ~ )</sub><br>
  - [새길](https://github.com/saegil-project/Saegil-Android)(북한이탈주민 정착지원 서비스) - 안드로이드 개발, 팀장 <sub>(2025.03 ~ 2025.06)</sub><br>
  - [ISBN 바코드 스캔 기반 도서 전산 시스템](https://github.com/HI-JIN2/isbn-scanner-mini-library) - 안드로이드 풀스택 1인 개발 <sub>(2024.07)</sub><br>
  - [COOING](https://github.com/COOING-team/COOING-Server)(쿠잉, 아이의 음성으로 쓰는 성장일기) - 백엔드 개발, 인프라 <sub>(2023.10 ~ 2023.12)</sub><br>
