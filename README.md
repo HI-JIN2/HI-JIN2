@@ -8,8 +8,7 @@
 - Strong in **Kotlin, Android**
 - Currently studying **Spring, Cloud Infrastructure**
 
-## Contact
-- Email: [qldls0307@naver.com](mailto:qldls0307@naver.com)
+
 
 ## Experience
 
@@ -34,7 +33,7 @@ _**2023. 06. ~ 2023. 08. | Backend Engineer Intern**_
 ## Main Projects
 
 ### [EAT-SSU](https://github.com/EAT-SSU/Android) | [Google Play](https://play.google.com/store/apps/details?id=com.eatssu.android)
-_**2024. 01. ~ |  Android Developer**_  
+_**2025. 01. ~ |  Android Developer**_  
 _**2023. 03. ~ 2024.12 | Team Leader, Android Developer, PM, AWS Infra Operation**_  
 - 숭실대학교 학식 리뷰 앱, 누적 사용자 **5,000+**
 - **WAU/MAU 21.8% → 62.4%** 개선
@@ -49,28 +48,21 @@ _**2026. 02. ~ | Infrastructure Design, Backend Developer**_
 - `analysis-service`와 `socket-service`를 분리한 이벤트 기반 파이프라인 구축
 - STOMP WebSocket fan-out 구조로 저지연 실시간 코칭 전송 구현
 
-<details>
-<summary><strong>More Projects</strong></summary>
-
-
-### [머니메이트](https://github.com/MoneyMate-project/MoneyMate)
-_**2023. 10. ~ 2023. 11. | Android, Backend, AI Prompting, Team Leader**_
-- 금융 API와 AI를 활용한 개인형 재무 목표 관리 서비스
-- AI 활용 온라인 개발대회 싱커톤 시즌3 **최우수상(2위)** 수상
 
 ### [ISBN 기반 미니도서관 전산화 시스템](https://github.com/HI-JIN2/isbn-scanner-mini-library)
-_**2024. 07. | Android Solo Developer**_
+_**2024. 07. | SW Developer**_
 - 인도네시아 미니도서관을 위한 ISBN 스캔 기반 도서 전산 시스템
 - Google Books API + Google Sheets 기반으로 600권 이상 전산화 지원
 
-</details>
-
 ## Awards
-- 숭실 캡스톤디자인 경진대회 장려상, 2025.10
-- 숭실대학교 소프트웨어 공모전 은상, 2025.07
-- **K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 금상(2위)**, 2023.12
-- **AI 활용 온라인 개발대회 싱커톤 시즌3 최우수상(2위)**, 2023.11
-- 숭실대학교 소프트웨어 공모전 금상, 2023.08
+
+### K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 금상(200여 팀 중 2위)
+- 아동 음성 성장일기 서비스 **COOING**의 백엔드 및 인프라 구축
+- Spring Boot, NCP 기반 배포 환경 설계
+
+### AI 활용 온라인 개발대회 싱커톤 시즌3 최우수상(800여 팀 중 2위)
+- AI 기반 개인형 재무 목표 설계 서비스 **머니메이트** 개발
+- Android 앱 개발, 금융 API 연동, AI 프롬프팅 설계, 팀장 수행
 
 ## Community
 - GDSC Soongsil (2023.10 ~ 2025.08)
