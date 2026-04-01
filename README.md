@@ -34,7 +34,7 @@ _**2023. 06. ~ 2023. 08. | Backend Engineer Intern**_
 ## Main Projects
 
 ### [EAT-SSU](https://github.com/EAT-SSU/Android) | [Google Play](https://play.google.com/store/apps/details?id=com.eatssu.android)
-_**2023. 03. ~ | Team Leader, Main Android Developer, PM, AWS Infra Operation**_
+_**2023. 03. ~ | Team Leader, Android Developer, PM, AWS Infra Operation**_
 - 숭실대학교 학식 리뷰 앱, 누적 사용자 **5,000+**
 - **WAU/MAU 21.8% → 62.4%** 개선
 - Crashlytics + Slack 연동으로 주요 크래시 15건 이상 대응하며 안정적 운영 체계 구축
@@ -43,7 +43,7 @@ _**2023. 03. ~ | Team Leader, Main Android Developer, PM, AWS Infra Operation**_
 - JWT 갱신 Race Condition 해결
 
 ### Parkit
-_**2026. 02. ~ | Infrastructure Design, Backend Development**_
+_**2026. 02. ~ | Infrastructure Design, Backend Developer**_
 - **Kubernetes + Kafka** 기반 실시간 주차 코칭 시스템 설계
 - `analysis-service`와 `socket-service`를 분리한 이벤트 기반 파이프라인 구축
 - STOMP WebSocket fan-out 구조로 저지연 실시간 코칭 전송 구현
