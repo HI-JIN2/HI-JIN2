@@ -1,4 +1,4 @@
-# Introduce
+# About Me
 
 안드로이드 개발을 강점으로 삼고,  
 백엔드와 클라우드 인프라까지 확장하고 있는 개발자 **유진**입니다.
@@ -65,25 +65,21 @@ _**2024. 07. | Android Solo Developer**_
 </details>
 
 ## Awards
-- K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 **금상(2위)**, 2023.12
-- AI 활용 온라인 개발대회 싱커톤 시즌3 **최우수상(2위)**, 2023.11
-- 숭실대학교 소프트웨어 공모전 **금상**, 2023.08
-- 숭실대학교 소프트웨어 공모전 **은상**, 2025.07
 - 숭실 캡스톤디자인 경진대회 장려상, 2025.10
+- 숭실대학교 소프트웨어 공모전 은상, 2025.07
+- **K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 금상(2위)**, 2023.12
+- **AI 활용 온라인 개발대회 싱커톤 시즌3 최우수상(2위)**, 2023.11
+- 숭실대학교 소프트웨어 공모전 금상, 2023.08
 
 ## Community
 - GDSC Soongsil (2023.10 ~ 2025.08)
+  - [학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
+  - [해외봉사가서 개발하기](https://www.youtube.com/watch?v=BcnWM_nqKow)
 - YOURSSU Android (2023.09 ~ 2024.12)
 - UMC 4th SSU Vice Lead / Spring Boot (2023.03 ~ 2023.08)
 - UMC 3rd Android (2022.09 ~ 2023.02)
 
-### Talks
-- [학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
-- [해외봉사가서 개발하기](https://www.youtube.com/watch?v=BcnWM_nqKow)
-- ICT 인턴십제도와 스타트업 인턴 후기
-- JWT로 알아보는 안드로이드-서버가 소통하는 법
 
 ## Education & Certification
 - 숭실대학교 컴퓨터학부 (2021.03 ~ 2025.08)
-- 정보처리기사
-- SQLD
+- 정보처리기사(2024.12), SQLD(2025.12)
