@@ -93,7 +93,7 @@ A book registration automation tool built during an overseas volunteer project i
 ## Activity
 
 ### Kotlin Ecosystem Mentorship (Kotlin Foundation)
-- Contributed to the Compose Multiplatform open-source project Heron [# 1221 PR](https://github.com/tunjid/heron/pull/1221)
+- Contributed to the Compose Multiplatform open-source project Heron - PR [#1221](https://github.com/tunjid/heron/pull/1221) [#1242](https://github.com/tunjid/heron/pull/1242)
 
 ### GDSC Soongsil
 - Speaker: [학교에서 서비스 운영하기](https://www.youtube.com/watch?v=Qx719VFI6No)
