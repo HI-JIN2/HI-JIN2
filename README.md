@@ -86,12 +86,11 @@ A book registration automation tool built during an overseas volunteer project i
 ---
 
 ## Awards
-
-- **K-PaaS Digital Social Innovation Contest** — Gold Prize (2nd)
-- **AI Online Development Competition Syncathon Season 3** — Grand Prize (2nd)
-- **Soongsil University Software Contest** — Gold Prize
-- **Soongsil Capstone Design Competition** — Encouragement Prize
-
+- 제 15회 숭실 캡스톤디자인 경진대회 장려상 (2025.10.01)
+- 숭실대학교 IT대학 소프트웨어 공모전 은상 (2025.07.11)
+- K-PaaS 활용 디지털 사회혁신 서비스 개발 공모전 금상 / 한국지능정보사회진흥원 (2023.12.27)
+- AI 활용 온라인 개발대회 싱커톤 시즌 3 최우수상 / (주)엔터플 (2023.11.08)
+- 숭실대학교 IT대학 소프트웨어 공모전 (2023.08.07)
 ---
 
 ## Activity
